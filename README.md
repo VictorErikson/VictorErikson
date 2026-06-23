@@ -1,22 +1,25 @@
 👋 Hi, I'm Victor Erikson!
 Front-End Developer | Former TV Editor | Passionate Problem Solver
-I have worked for the past 11 years as an editor for Swedish Television. Now, I am expanding my career into Front-End Development, where I focus on creating engaging and intuitive user experiences. My passion lies in problem-solving and designing seamless interactions between users and digital products—whether through a TV show, a website, or an application.
+I am passionate about frontend development because it combines creativity with problem-solving. Through my studies, personal learning, and professional experience, I have built skills in React, Angular, TypeScript, JavaScript, HTML, CSS, Tailwind, Bootstrap, APIs, authentication, testing, accessibility, and modern frontend development practices.
 
-📚 Currently Studying
-🎓 Front-End Development at Nackademin
+💻 Experience
 
-💻 What I'm Working On
-In my free time, I actively work on various programming projects to deepen my knowledge in React, TypeScript, and JavaScript.
+I completed a 6-month internship at Triggerbee, where I worked with React and Angular projects, collaborated in agile Scrum teams, solved hundreds of bugs, and took responsibility for larger development tasks.
 
-🔹 Current Project:
-🚀 A Note-Taking App – Exploring React & TypeScript to build a structured and user-friendly note management system.
+I have also completed the 55.5-hour "Angular – The Complete Guide" course and participated in a team project developing a functional alarm system with user management, database integration, and a physical hardware connection.
 
-🔹 Previous Projects:
-🎮 Hangman Game – Built with React & TypeScript
-🖼️ Art Gallery Page – Developed using Vanilla JavaScript
+📂 Portfolio & Demos
+
+For a complete overview of my projects, experience, and technical skills, please visit my resume:
+
+🔗 https://victorerikson.github.io/resume/#/
+
+You can also view demos and examples from my internship work here:
+
+🔗 https://victorerikson.github.io/resume/#/onboarding/domain
 
 📫 Connect with Me
-📧 Reach out via GitHub, LinkedIn or Email to collaborate or discuss exciting projects!
 
 LinkedIn: linkedin.com/in/victor-eriksson-aa22a4334
+
 Email: victoreriksson_93@hotmail.com
