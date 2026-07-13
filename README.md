@@ -1,4 +1,4 @@
-👋 Hi, I'm Victor Erikson!
+👋 Hi, I'm Victor Eriksson!
 Front-End Developer | Former TV Editor | Passionate Problem Solver
 I am passionate about frontend development because it combines creativity with problem-solving. Through my studies, personal learning, and professional experience, I have built skills in React, Angular, TypeScript, JavaScript, HTML, CSS, Tailwind, Bootstrap, APIs, authentication, testing, accessibility, and modern frontend development practices.
 
