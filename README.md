@@ -16,7 +16,7 @@ For a complete overview of my projects, experience, and technical skills, please
 
 You can also view demos and examples from my internship work here:
 
-🔗 https://victorerikson.github.io/resume/#/onboarding/domain
+🔗 https://victorerikson.github.io/
 
 📫 Connect with Me
 
