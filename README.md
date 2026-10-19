@@ -10,11 +10,11 @@ I have also completed the 55.5-hour "Angular – The Complete Guide" course and 
 
 📂 Portfolio & Demos
 
-For a complete overview of my projects, experience, and technical skills, please visit my resume:
+For a complete overview of my experience, and technical skills, please visit my resume:
 
 🔗 https://victorerikson.github.io/resume/#/
 
-You can also view demos and examples from my internship work here:
+You can also view demos on the about me page:
 
 🔗 https://victorerikson.github.io/
 
